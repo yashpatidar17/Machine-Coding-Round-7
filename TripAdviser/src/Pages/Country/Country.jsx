@@ -16,7 +16,7 @@ export const Country = () => {
 
   return (
     <div>
-      <h2>Top Countries in for your holiday</h2>
+      <h2>Top Countries in {country.name} for your holiday</h2>
       <DataCard propData={destination} />
     </div>
   );
