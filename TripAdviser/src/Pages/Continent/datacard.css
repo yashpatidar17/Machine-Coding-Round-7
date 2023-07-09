@@ -1,0 +1,25 @@
+.dataImage{
+    width: 300px;
+    border-radius: 5px;
+    height: 200px;
+}
+
+.data-card{
+    display: flex;
+    gap: 10px;
+}
+
+.card{
+    position: relative;
+}
+
+.location{
+    display: flex;
+    align-items: center;
+    position: absolute;
+    top: 60%;
+    gap: 10px;
+    margin-left:20px;
+}
+
+
